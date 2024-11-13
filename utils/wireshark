@@ -1,0 +1,4 @@
+To find the flag search for only http packets and then follow its responses and find the information you need then decode it in the way it was encoded
+
+
+usually follow stream and look for obvious hints
